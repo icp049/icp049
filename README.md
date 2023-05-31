@@ -8,7 +8,7 @@
 
 
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-<h2 align="left">Tools & Technologies</h2>
+<h3 align="left">Tools & Technologies</h3>
 
 
 <div align="left">
