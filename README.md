@@ -1,8 +1,8 @@
 
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="left">Hello, my name is Ian! 👋</h1>
+<h1 align="center">Hello, my name is Ian! 👋</h1>
 
-<p align="left">I am a developer focused on Embedded Systems and Web & Mobile Development</p>
+<p align="center">I am a developer focused on Embedded Systems and Web & Mobile Development</p>
 
 <img align = "right" width="400" src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 " />
 
