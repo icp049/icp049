@@ -3,7 +3,7 @@
   
 <h1 align="center">Hello, my name is Ian! 👋</h1>
 
-<p align="center">I am a developer focused on Embedded Systems and Web & Mobile Development</p>
+<p align="center">I am a developer focused on Embedded Systems and Web/Mobile Development</p>
 
 
 
