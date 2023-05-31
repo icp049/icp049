@@ -1,24 +1,24 @@
 <h1 align="left">Hello 👋</h1>
 
-###
+
 
 <p align="left">My name is Ian</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">A developer focused on Embedded Systems and Web & Mobile Development</p>
 
 <img align = "right" width="400" src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 " />
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 
 
@@ -39,7 +39,6 @@
 
 <h2 align="left">Tools & Technologies</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -79,4 +78,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+
