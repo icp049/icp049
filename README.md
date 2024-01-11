@@ -1,5 +1,5 @@
 
-<img src = "https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen> 
+
   
 <h1 align="center">Hello, my name is Ian! 👋</h1>
 
