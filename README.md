@@ -79,7 +79,7 @@
 
 <div align = "center">
 
-<img src="https://myreadme.vercel.app/api/embed/icp049?panels=,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/icp049?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 </div>
 
